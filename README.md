@@ -1,3 +1,10 @@
+
+<img width="1255" alt="snap" src="https://github.com/user-attachments/assets/8092d1f0-bec4-4134-989a-b5cddeb03a4e" />
+
+
+
+
+
 # AI Assistant with Groq
 
 This is a Streamlit application that uses Groq API and Langchain to create an AI assistant with various tools including Wikipedia search, mathematical calculations, and reasoning capabilities.
