@@ -1,0 +1,5 @@
+streamlit==1.32.0
+langchain==0.1.12
+langchain-groq==0.0.1
+wikipedia==1.4.0
+python-dotenv==1.0.1 
